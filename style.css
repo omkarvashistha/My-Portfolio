@@ -5,3 +5,24 @@ ol{
     flex-wrap: wrap;
 
 }
+
+.proj_1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.proj_1 div {
+    width : 33.3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
